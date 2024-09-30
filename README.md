@@ -7,7 +7,7 @@ The dataset contains various attributes about the customers, their preferences, 
 https://github.com/vbudhiraja/PCMLAI-Practical-Application-1
 
 # Summary
-### Below age 21 show greater tendency to accept the coupons.
+### At age 21, it shows the greater tendency to accept the coupons.
 ### It decreases by age and suddenly goes back up at 50plus.
 ### Single customers have the highest acceptance rate 60%. 
 ### Widows are less likely to accept coupons at about 47%.
